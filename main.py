@@ -90,4 +90,4 @@ async def random(ctx):
 
 
 
-bot.run('MTEzOTEyNjMwNzgyMTczMTg0MA.GnsyiP.m_VtWh0lcj4Q9w5qKf_TL2xwMzULGpR1_XXW2s')
+bot.run('')
